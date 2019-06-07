@@ -7,4 +7,4 @@ class Dog
   end
 end
 
-puts #{name}.name
+puts .name
